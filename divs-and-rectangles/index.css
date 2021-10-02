@@ -45,4 +45,93 @@ p {
   background-color: blue;
 }
 
-/* TODO: Add CSS for the rest of your solution below */
+.empty3 {
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+}
+
+.red3 {
+  width: 80px;
+  background-color: red;
+}
+
+.blue3 {
+  width: 80px;
+  background-color: blue;
+}
+
+.empty4 {
+  display: flex;
+  flex: 1;
+  flex-direction: row-reverse;
+  background-color: red
+}
+
+.blue4 {
+  width: 80px;
+  background-color: blue;
+}
+
+.empty5 {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+}
+
+.red5 {
+  width: 80px;
+  background-color: red;
+  align-items: center;
+  column-gap: 200px;
+}
+
+.empty6 {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  background-color: red;
+}
+
+.blue6 {
+  width: 80px;
+  background-color: blue;
+  align-items: center;
+}
+
+.empty7 {
+  display: flex;
+  flex: 1;
+  justify-content: flex-start ;
+  background-color: blue;
+}
+
+.red7 {
+  width: 80px;
+  background-color: red;
+}
+
+.empty8 {
+  display: flex;
+  flex: 1;
+  justify-content: space-between ;
+}
+
+.orange8 {
+  width: 80px;
+  background-color: orange;
+}
+
+.empty9 {
+  display: flex;
+  flex: 1;
+  justify-content: space-evenly;
+  background-color: orange
+}
+
+.green9 {
+  width: 40px;
+  background-color: green;
+}
+
+
