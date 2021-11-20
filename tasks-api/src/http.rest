@@ -1,0 +1,9 @@
+POST /v1/tasks
+
+GET /v1/tasks
+
+GET /v1/tasks/:id
+
+DELETE /v1/tasks/{id}
+
+PUT /v1/tasks/{id}
